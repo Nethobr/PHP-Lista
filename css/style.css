@@ -1,0 +1,71 @@
+*
+    {
+        background-color: rgb(220, 235, 253);
+        color:  rgb(29, 41, 65);
+        font-size: 15;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+h1
+    {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+h1 a
+    {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color:  rgb(29, 41, 65);
+        position: relative;
+    }
+h2
+    {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+h3
+    {
+        font-family: Arial;
+    }
+
+p
+    {
+        margin: 0cm;
+    }
+
+a
+    {   
+        text-decoration: none;
+        color: black;
+        font-size: 15;
+    }
+
+hr
+    {
+        border: 0;
+        height: 1px;
+        background: rgb(220, 235, 253);
+        background-image: linear-gradient(to right, rgb(220, 235, 253), rgb(29, 41, 65), rgb(220, 235, 253));
+    }
+
+ul li
+    {
+        padding: 2px;
+        list-style-type: square;
+    }
+
+.quest
+    {
+        color:rgb(1, 14, 31);
+        padding: 12px;
+    }
+
+.calc
+    {
+        font-family: monospace;
+    }
+
+form input, select, button
+    {
+        padding: 1px;
+        background-color: rgb(246, 250, 255);
+    }
